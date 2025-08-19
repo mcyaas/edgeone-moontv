@@ -90,6 +90,10 @@
       "api": "https://moontv-api.shinya.click/provide/vod",
       "name": "MoonTV官方源"
     },
+    "moontv2": {
+    "api": "https://moontv-api.vercel.app/provide/vod",
+    "name": "MoonTV社区源"
+    },
     "ysgc": {
       "api": "http://ysgc.xyz/api.php/provide/vod",
       "name": "影视工厂"
@@ -102,6 +106,10 @@
     "libretv2": {
       "api": "https://api.libretv.cc/provide/vod",
       "name": "LibreTV源2"
+    },
+    "fantuan": {
+    "api": "https://api.fantuan.tv/api.php/provide/vod",
+    "name": "饭团影视"
     },
     "ikanbot": {
       "api": "https://ikanbot.pro/api.php/provide/vod",
