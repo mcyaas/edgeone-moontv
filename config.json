@@ -85,6 +85,27 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "moontv1": {
+      "api": "https://moontv-api.shinya.click/provide/vod",
+      "name": "MoonTV官方源"
+    },
+    "ysgc": {
+      "api": "http://ysgc.xyz/api.php/provide/vod",
+      "name": "影视工厂"
+    },
+    "huayu": {
+      "api": "http://hyapi.huiyuanti.com/api.php/provide/vod",
+      "name": "华语剧场",
+      "detail": "http://hyapi.huiyuanti.com"
+    },
+    "libretv2": {
+      "api": "https://api.libretv.cc/provide/vod",
+      "name": "LibreTV源2"
+    },
+    "ikanbot": {
+      "api": "https://ikanbot.pro/api.php/provide/vod",
+      "name": "ikanbot资源"
     }
   }
 }
